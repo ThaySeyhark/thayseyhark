@@ -23,8 +23,9 @@ My work focuses on platform reliability, security‑driven design, and building 
 ## 🚀 Tech Stacks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,react,reactnative,flutter,postgres,mysql,mssql,mongodb,redis,graphql,ts,js,go,java,cs,git,bash&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,react,reactnative,flutter,dotnet,postgres,mysql,mssql,mongodb,redis,graphql,ts,js,python,go,java,cs,git,bash&perline=7" />
 </p>
+
 
 
 ### 🎨 Frontend
@@ -35,13 +36,14 @@ My work focuses on platform reliability, security‑driven design, and building 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23_Desktop-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+	<img src="https://img.shields.io/badge/C%23%20WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
+
 
 
 
@@ -75,10 +77,12 @@ My work focuses on platform reliability, security‑driven design, and building 
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Talend%20API-0094F5?style=for-the-badge&logo=talend&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL%20Playground-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
 
 
 
